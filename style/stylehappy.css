@@ -37,13 +37,13 @@ li.classone{
 /* html covers the whole page! */
 html { 
     /* min-height:100% */
-    background-color: rgb(132, 67, 218);
+    background-color: rgb(146, 53, 184);
     /* background-color: rebeccapurple; */
  } 
 
 /* body covers nearly the whole page...*/
 body {
-     background-color: rgb(149, 85, 233); 
+     background-color: rgb(24, 238, 238); 
     width: 800px; 
     border:white solid 10px;
     margin:auto;
